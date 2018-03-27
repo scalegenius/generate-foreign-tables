@@ -5,7 +5,7 @@ gem 'getopt-declare'
 gem 'rake'
 # SQLserver adapter is not ready for Rails 5.x. 
 # force last 4.1 version
-gem 'activerecord', '4.1.9'
+gem 'activerecord', '4.1.14.1'
 ## PostgreSQL gems
 gem 'pg'
 ## MySQL gems
